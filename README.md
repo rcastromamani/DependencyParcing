@@ -3,6 +3,7 @@
 #### Compiling LSTM parser
 #### ---------------------
 
+```
 $ sudo apt-get install g++-5
 $ sudo apt-get install mercurial 
 $ cd /media/sf_RCastroq/Instaladores/DeepLearning_DepedencyParsing/
@@ -24,4 +25,5 @@ $ export CC=/usr/bin/gcc-5
 $ export CXX=/usr/bin/g++-5
 $ cmake .. -DEIGEN3_INCLUDE_DIR=/usr/local/include/eigen3
 $ make -j2
+```
 
