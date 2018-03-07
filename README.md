@@ -1,4 +1,4 @@
-# DependencyParcing
+# DependencyParsing
 
 #### Compiling LSTM parser
 #### ---------------------
